@@ -1,40 +1,40 @@
 # Bienvenue sur mon profil GitHub !
 
-👋 Salut, Actuellement en ING2 a l'ECE Paris
+👋 Salut, je suis actuellement en **ING2** à l'ECE Paris, passionné par la programmation, l'électronique et la mécanique.
 
-## 🌐 Système d'exploitation
+## 🌐 Systèmes d'exploitation
 - **TempleOS**
 - **Amog-OS**
 - **Nyarch**
-- **Windows11**
+- **Windows 11**
 
 ## 💻 Langages de programmation
 - **HolyC**
 - **Batch**
 - **C**
 - **Python**
-- Et d'autres...
+- Et bien d'autres...
 
 ## 🚀 Mes projets
 ### 🎮 **Fruit Ninja en FPGA**
-Un projet de jeu "Fruit Ninja" développé sur FPGA, utilisant une machine à états pour gérer la logique du jeu et les interactions en temps réel avec l'utilisateur.
+Un projet de jeu "Fruit Ninja" développé sur FPGA, utilisant une machine à états pour gérer la logique du jeu et les interactions en temps réel.
 
 ### ⏰ **Réveil en Arduino**
 Un réveil personnalisé basé sur une plateforme Arduino, avec des fonctionnalités comme l'affichage de l'heure, l'activation de sons et la gestion des alarmes.
 
 ### ⌨️ **Clavier mécanique custom**
-Assemblage d'un clavier mécanique en kit avec des switches personnalisés pour une expérience de frappe optimisée.
+Assemblage d'un clavier mécanique en kit avec des switches personnalisés pour une expérience de frappe optimale.
 
 ### 🎮 **Mini jeu sur manette**
-Développement d'un mini jeu sur une manette avec un ATtiny, un écran OLED, accéléromètre et pcb.
+Développement d'un mini jeu sur une manette avec un ATtiny, un écran OLED, un accéléromètre et une PCB pour une expérience de jeu interactive.
 
+### ⌨️ **Clavier OSU personnalisé**
+Création d'un clavier osu en utilisant des pièces de 5 centimes et le principe capacitif, optimisé pour la rapidité et la précision.
 
 ### 🖥️ **Projets divers**
-Des projets allant de la programmation de microcontrôleurs à la création de systèmes embarqués, en passant par des projets de **modélisation 3D** et des **systèmes électroniques**.
-
+Des projets allant de la programmation de microcontrôleurs à la création de systèmes embarqués, ainsi que des travaux de **modélisation 3D** et des **systèmes électroniques**.
 
 ## 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Jujux167?style=social&logo=github)](https://github.com/Jujux167)
+[![GitHub](https://img.shields.io/badge/GitHub-@Jujux167?style=social&logo=github)](https://github.com/Jujux167)  
 [![Instagram](https://img.shields.io/badge/Instagram-@julien_levrier-purple?style=social&logo=instagram)](https://www.instagram.com/julien_levrier/)
-
