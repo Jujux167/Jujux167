@@ -27,7 +27,7 @@ Petit PC portable qui fait le taf
 
 ## 🔧 Périphériques et équipements
 ### 🖨️ **Imprimante 3D**
-- **Modèle** : Ender 3 Pro
+- **Modèle** : Creality Ender 3 Pro
 
 
 ### ⌨️ **Clavier mécanique custom**
