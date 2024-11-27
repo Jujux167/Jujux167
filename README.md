@@ -27,9 +27,8 @@ Petit PC portable qui fait le taf
 
 ## 🔧 Périphériques et équipements
 ### 🖨️ **Imprimante 3D**
-- **Modèle** : [Modèle de ton imprimante 3D]
-- **Caractéristiques** : [Vitesse d'impression, type de filament compatible, etc.]
-- **Utilisation** : Conception de pièces personnalisées pour des projets électroniques et mécaniques.
+- **Modèle** : Ender 3 Pro
+
 
 ### ⌨️ **Clavier mécanique custom**
 Assemblé à partir d'un kit avec des switches personnalisés pour une expérience de frappe optimisée.
