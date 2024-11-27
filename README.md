@@ -25,6 +25,10 @@ Un réveil personnalisé basé sur une plateforme Arduino, avec des fonctionnali
 ### ⌨️ **Clavier mécanique custom**
 Assemblage d'un clavier mécanique en kit avec des switches personnalisés pour une expérience de frappe optimisée.
 
+### 🎮 **Mini jeu sur manette**
+Développement d'un mini jeu sur une manette avec un ATtiny, un écran OLED, accéléromètre et pcb.
+
+
 ### 🖥️ **Projets divers**
 Des projets allant de la programmation de microcontrôleurs à la création de systèmes embarqués, en passant par des projets de **modélisation 3D** et des **systèmes électroniques**.
 
