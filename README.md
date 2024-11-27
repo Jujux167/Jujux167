@@ -56,7 +56,7 @@ Des projets allant de la programmation de microcontrôleurs à la création de s
 
 ---
 
-## 640x480 16 couleurs --> méilleure résolution
+# 640x480 16 couleurs --> meilleure résolution
 
 ---
 
