@@ -15,6 +15,27 @@
 - **Python**
 - Et bien d'autres...
 
+  
+## 🖥️ Mon PC
+Petit PC portable qui fait le taf
+
+- **Modèle** : Acer Nitro V15 2024
+- **Processeur** : Intel Core i7-13620H
+- **Carte graphique** : NVIDIA GeForce RTX 4050H
+- **RAM** : 16 Go DDR5
+- **Stockage** : SSD 2 To NVMe + SSD 500 Go NVMe
+
+## 🔧 Périphériques et équipements
+### 🖨️ **Imprimante 3D**
+- **Modèle** : [Modèle de ton imprimante 3D]
+- **Caractéristiques** : [Vitesse d'impression, type de filament compatible, etc.]
+- **Utilisation** : Conception de pièces personnalisées pour des projets électroniques et mécaniques.
+
+### ⌨️ **Clavier mécanique custom**
+Assemblé à partir d'un kit avec des switches personnalisés pour une expérience de frappe optimisée.
+
+
+
 ## 🚀 Mes projets
 ### 🎮 **Fruit Ninja en FPGA**
 Un projet de jeu "Fruit Ninja" développé sur FPGA, utilisant une machine à états pour gérer la logique du jeu et les interactions en temps réel.
