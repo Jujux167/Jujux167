@@ -23,7 +23,7 @@ Un projet de jeu "Fruit Ninja" développé sur FPGA, utilisant une machine à é
 Un réveil personnalisé basé sur une plateforme Arduino, avec des fonctionnalités comme l'affichage de l'heure, l'activation de sons et la gestion des alarmes.
 
 ### ⌨️ **Clavier mécanique custom**
-Conception et assemblage d'un clavier mécanique personnalisé, avec des switches spécifiques et une carte de circuit imprimé (PCB) développée pour s'adapter parfaitement à mes besoins.
+Assemblage d'un clavier mécanique en kit avec des switches personnalisés pour une expérience de frappe optimisée.
 
 ### 🖥️ **Projets divers**
 Des projets allant de la programmation de microcontrôleurs à la création de systèmes embarqués, en passant par des projets de **modélisation 3D** et des **systèmes électroniques**.
