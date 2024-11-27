@@ -54,8 +54,11 @@ Création d'un clavier osu en utilisant des pièces de 5 centimes et le principe
 ### 🖥️ **Projets divers**
 Des projets allant de la programmation de microcontrôleurs à la création de systèmes embarqués, ainsi que des travaux de **modélisation 3D** et des **systèmes électroniques**.
 
-640x480 16 couleurs --> méilleure résolution
+---
 
+## 640x480 16 couleurs --> méilleure résolution
+
+---
 
 ## 📫 Contact
 
