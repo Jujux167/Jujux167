@@ -58,6 +58,11 @@ Des projets allant de la programmation de microcontrôleurs à la création de s
 
 # 640x480 16 couleurs --> meilleure résolution
 
+
+A wise man once said: "If you know Assembly, every software is open source."
+
+"An idiot admires complexity, a genius admires simplicity." -Terry A. Davis
+
 ---
 
 ## 📫 Contact
