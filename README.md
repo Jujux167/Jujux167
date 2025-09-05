@@ -22,8 +22,19 @@ Petit PC portable qui fait le taf
 - **Modèle** : Acer Nitro V15 2024
 - **Processeur** : Intel Core i7-13620H
 - **Carte graphique** : NVIDIA GeForce RTX 4050H
-- **RAM** : 16 Go DDR5
+- **RAM** : 24 Go DDR5
 - **Stockage** : SSD 2 To NVMe + SSD 500 Go NVMe
+- **Systeme** : Arch Linux
+
+Gros PC portable pour charbonner
+
+- **Modèle** : MSI Crosshair 16 HX AI
+- **Processeur** : Intel Ultra 7 255HX
+- **Carte graphique** : NVIDIA GeForce RTX 5070
+- **RAM** : 64 Go DDR5
+- **Stockage** : SSD 2 To NVMe + SSD 500 Go NVMe
+- **Systeme** : Windows 11 famille
+
 
 ## 🔧 Périphériques et équipements
 ### 🖨️ **Imprimante 3D**
