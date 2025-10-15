@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 # Bienvenue sur mon profil GitHub !
 
 👋 Salut, je suis actuellement en **ING3** à l'ECE Paris, passionné par la programmation, l'électronique et la mécanique.
