@@ -76,6 +76,8 @@ A wise man once said: "If you know Assembly, every software is open source."
 "An idiot admires complexity, a genius admires simplicity." -Terry A. Davis
 
 ---
+![Jujux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujux167&show_icons=true&theme=radical)
+---
 
 ## 📫 Contact
 
