@@ -83,3 +83,4 @@ A wise man once said: "If you know Assembly, every software is open source."
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Jujux167?style=social&logo=github)](https://github.com/Jujux167)  
 [![Instagram](https://img.shields.io/badge/Instagram-@julien_levrier-purple?style=social&logo=instagram)](https://www.instagram.com/julien_levrier/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien%20Levrier?style=social&logo=linkedin)](https://www.linkedin.com/in/julien-levrier/)
