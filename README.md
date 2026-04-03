@@ -76,7 +76,9 @@ A wise man once said: "If you know Assembly, every software is open source."
 "An idiot admires complexity, a genius admires simplicity." -Terry A. Davis
 
 ---
+
 <img src="https://raw.githubusercontent.com/Jujux167/Jujux167/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 ---
 
 ## 📫 Contact
