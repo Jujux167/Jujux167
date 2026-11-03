@@ -7,6 +7,7 @@
 - **TempleOS**
 - **Amog-OS**
 - **Nyarch**
+- **Ubuntu**
 - **Windows 11**
 
 ## 💻 Langages de programmation
@@ -25,7 +26,7 @@ Petit PC portable qui fait le taf
 - **Carte graphique** : NVIDIA GeForce RTX 4050H
 - **RAM** : 24 Go DDR5
 - **Stockage** : SSD 2 To NVMe + SSD 500 Go NVMe
-- **Systeme** : Arch Linux
+- **Systeme** : Ubuntu
 
 Gros PC portable pour charbonner
 
@@ -34,12 +35,13 @@ Gros PC portable pour charbonner
 - **Carte graphique** : NVIDIA GeForce RTX 5070
 - **RAM** : 64 Go DDR5
 - **Stockage** : SSD 2 To NVMe + SSD 500 Go NVMe
-- **Systeme** : Windows 11 famille
+- **Systeme** : Windows 11 famille + Ubuntu
 
 
 ## 🔧 Périphériques et équipements
-### 🖨️ **Imprimante 3D**
+### 🖨️ **Imprimantes 3D**
 - **Modèle** : Creality Ender 3 Pro
+- **Modèle** : Bambulab X1 Carbon
 
 
 ### ⌨️ **Clavier mécanique custom**
